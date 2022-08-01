@@ -30,7 +30,7 @@ This application is intended for those readers who would prefer a simpler versio
 * My SQL
 * Thymeleaf
 * Bootstrap
-* 
+
 ### What I'll Have to Learn
 
 I will have to learn more about ORM. I will also have to learn how to collaborate as a team member on a software development project.
